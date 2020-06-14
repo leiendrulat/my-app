@@ -42,9 +42,10 @@
 <figure>
 	<img alt='me with coffee' src='me.jpg'>
 	<p><strong>Hello!</strong></p>
-	<figcaption>"Be Happy with what you Have. Be Excited about what you Want." - Allen Cohen</figcaption>
+	
 	<br>
 <h2>Lei Endrulat</h2>
+<figcaption>"Be Happy with what you Have. Be Excited about what you Want." - Allen Cohen</figcaption>
 </figure>
 
 

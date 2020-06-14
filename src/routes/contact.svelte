@@ -68,7 +68,7 @@ input[type=submit]:hover {
   </div>
   <div class="row">
     <div class="column">
-      <img src="fb.jpg" style="width:100%">
+      <img src="fb.jpg" style="width:100%" alt="none">
     </div>
     <div class="column">
       <form action="/action_page.php">
